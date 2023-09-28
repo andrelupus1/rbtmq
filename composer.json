@@ -1,0 +1,6 @@
+{
+  "require": {
+    "php-amqplib/php-amqplib": "v3.0.0",
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}
